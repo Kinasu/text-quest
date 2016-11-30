@@ -49,7 +49,7 @@ else
         2. Не хочу."
 
       choice = gets.to_i
-			count(choice)
+      count(choice)
 
       if choice == 1
         puts "Вы покричали и услышали недалеко охотничий рожок. Вы спасены!"
