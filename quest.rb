@@ -38,7 +38,7 @@ else
     2. Нет, я еще покатаюсь."
 
   choice = gets.to_i
-	count(choice)
+  count(choice)
 
   if choice == 1
     puts "Вы спрыгнули с волка и спрятались за деревом. "
